@@ -1,0 +1,19 @@
+{
+  "name": "musica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "you-dowload-mp3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "vue": "^2.5.17",
+    "youtube-mp3-downloader": "^0.5.3",
+    "socket.io": "^2.1.1"
+  }
+}
